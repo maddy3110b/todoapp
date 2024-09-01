@@ -1,4 +1,5 @@
-frontend deloyment-
+frontend deloyment-https://earnest-dango-0e5e0a.netlify.app
+backend -https://todoappbackend-7eea.onrender.com/
 # Getting Started with Create React App
 
 
